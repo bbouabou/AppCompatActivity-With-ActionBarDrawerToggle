@@ -1,5 +1,4 @@
-# AppCompatActivityWithActionBarDrawerToggle
-AppCompatActivity with ActionBarDrawerToggle
+# AppCompatActivity with ActionBarDrawerToggle
 
 It's important that your app inherit the AppCompat theme.
 
